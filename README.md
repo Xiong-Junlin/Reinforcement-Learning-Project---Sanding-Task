@@ -1,0 +1,1 @@
+This project uses the DDPG (Deep Deterministic Policy Gradient) algorithm to optimize the behavior of the sanding robot, aiming to maximize rewards by targeting sanding areas while avoiding painted areas in increasingly challenging environments.
